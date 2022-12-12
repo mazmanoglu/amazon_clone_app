@@ -26,7 +26,7 @@ function Home() {
           />
           <Product
             id="2"
-            title="manneke"
+            title="COCO Channel"
             price={99.5}
             rating={10}
             image={coco}
